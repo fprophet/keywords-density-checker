@@ -8,3 +8,5 @@ The density formula used is: (freq/total_words)*100.
 A list of stop words is provided in the class to avoid including them into calculations.
 
 In case of missing content, page not being found or internal server error a message will be displayed indicating the problem.
+
+The tables are created and populated by JavaScript and certain classes of Bootstrap 5 are used for a nice and quick page design.
